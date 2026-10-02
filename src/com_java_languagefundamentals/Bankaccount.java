@@ -33,8 +33,8 @@ public class Bankaccount {
     }
     	
     public static void main(String[] args) {
-    	Bankaccount b1=new Bankaccount(101,'shailaja',10000,'union')	
-    	Bankaccount b2=new Bankaccount(101,'shailaja',10000,'union')	
+    	Bankaccount b1=new Bankaccount(101,"shailaja",10000,"union");	
+    	Bankaccount b2=new Bankaccount(102,"shailaja 2",10000,"union");	
 	}
 
 }
